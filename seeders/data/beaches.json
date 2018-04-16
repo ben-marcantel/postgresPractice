@@ -1,0 +1,19 @@
+{
+    "beaches":[
+        {
+            "name": "Papohaku Beach",
+            "location": "Molokai, HI, USA",
+            "sand_rating": 8
+        },
+        {
+            "name": "Ash Beach",
+            "location": "Glass, TN, USA",
+            "sand_rating": 1
+        },
+        {
+            "name": "Old Beach",
+            "location": "Ghost, NY, USA",
+            "sand_rating": 3
+        }
+    ]
+}
