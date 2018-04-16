@@ -1,0 +1,9 @@
+{
+    "lifeguards":[
+        {
+            "first_name":"Aqua",
+            "last_name":"Person",
+            "beachId":1
+        }
+    ]
+}
